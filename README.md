@@ -6,11 +6,9 @@
 # Microsoft MVP
 
 <div>
-  <a herf="https://mvp.microsoft.com/en-us/PublicProfile/5003815">
-   <img height="180em" src="https://user-images.githubusercontent.com/31531703/218931931-8d1396e3-5900-4ce1-bf4b-3212c8af1b55.png" />
- <\div>
- 
- 
+  <a href="https://mvp.microsoft.com/en-us/PublicProfile/500381" target="_blank"><img src="https://user-images.githubusercontent.com/31531703/218931931-8d1396e3-5900-4ce1-bf4b-3212c8af1b55.png" target="_blank"></a>
+ </div>
+  
 ## Status do meu GitHub atualizado
 
  <div>
