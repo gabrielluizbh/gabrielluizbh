@@ -1,5 +1,14 @@
 # Em contrução a página de perfil! 🚧
 
+## Status do meu Git Hub atualizado
+
+ <div>
+    <a herf="https://github.com/gabrielluizbh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielluizbh&shov_icons=true&thene=drark&include_all_commits=true&count_private=true"/>
+     </div>
+
+
+
 <!--
 **gabrielluizbh/gabrielluizbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +42,3 @@ Here are some ideas to get you started:
  </div>
  
  
- <div>
-    <a herf="https://github.com/gabrielluizbh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielluizbh&shov_icons=true&thene=drark&include_all_commits=true&count_private=true"/>
-     </div>
