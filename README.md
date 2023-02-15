@@ -36,4 +36,4 @@ Here are some ideas to get you started:
  <div>
     <a herf="https://github.com/gabrielluizbh">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielluizbh&shov_icons=true&thene=drark&include_all_commits=true&count_private=true"/>
-     
+     </div>
