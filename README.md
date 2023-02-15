@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  <a href="https://twitter.com/gabrielluizbh" target="_blank"><img src="https://img.shields.io/badge/-Twitter-219EEA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
  <a href="https://www.linkedin.com/in/gabrielluizbh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://instagram.com/gabrielluizbh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+<a href="https://t.me/gabrielluizbrasil"  target="_blank"><img src="https://img.shields.io/badge/Grupo Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  </div>
 
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+
