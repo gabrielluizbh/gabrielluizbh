@@ -32,7 +32,4 @@ Here are some ideas to get you started:
  <a href="https://instagram.com/gabrielluizbh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
 
-<div>
-  <a href="https://github.com/gabrielluizbh">
-     <ing height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluizbh&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+
