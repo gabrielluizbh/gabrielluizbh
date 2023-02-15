@@ -31,3 +31,9 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/gabrielluizbh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://instagram.com/gabrielluizbh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
+
+ <div>
+<a href—"https://github.com/gabrielluizbh">
+<ing height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielluizbh&shov_icons=true&thene=dracula&include_all_cc—its=true&count_private=true"/>
+<ing height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluizbh&layout=compact&langs_count=16&theme=dracula"/>
+</div>
