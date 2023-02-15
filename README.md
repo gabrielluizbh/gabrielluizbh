@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
  <div>
 <a href—"https://github.com/gabrielluizbh">
-<ing height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielluizbh&shov_icons=true&thene=dracula&include_all_cc—its=true&count_private=true"/>
+<ing height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielluizbh&shov_icons=true&thene=dracula&include_all_commits=true&count_private=true"/>
 <ing height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluizbh&layout=compact&langs_count=16&theme=dracula"/>
 </div>
