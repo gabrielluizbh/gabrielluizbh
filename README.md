@@ -1,7 +1,7 @@
 # Em contrução a página de perfil! 🚧
 
 # Um conhecimento só é válido quando compartilhado!  <dir>
- <img src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+ <img src="https://i0.wp.com/gabrielluiz.com/wp-content/uploads/2020/10/perfil.png?width=160&height=160">
  </dir>
 
 ## Status do meu GitHub atualizado
