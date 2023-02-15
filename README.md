@@ -1,5 +1,7 @@
 # Em contrução a página de perfil! 🚧
 
+# Um conhecimento só é válido quando compartilhado!
+
 ## Status do meu GitHub atualizado
 
  <div>
