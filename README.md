@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ## Escreve artigos sobre
 
-<img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a> <img src ="https://img.shields.io/badge/Windows Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a> <img src ="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" target="_blank"></a>
+<img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a> <img src ="https://img.shields.io/badge/Windows Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a> <img src ="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" target="_blank"></a> <img src ="
+https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" target="_blank"></a>
 
 
 
