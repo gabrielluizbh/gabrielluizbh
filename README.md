@@ -1,6 +1,6 @@
 # Em contrução a página de perfil! 🚧
 
-# Um conhecimento só é válido quando compartilhado! <dir> <img src="https://i0.wp.com/gabrielluiz.com/wp-content/uploads/2020/10/perfil.png?width=100&height=100">
+# Um conhecimento só é válido quando compartilhado! <dir> <img src="https://i0.wp.com/gabrielluiz.com/wp-content/uploads/2020/10/perfil.png?width=50&height=50">
  
 ## Status do meu GitHub atualizado
 
