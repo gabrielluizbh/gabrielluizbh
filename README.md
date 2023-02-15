@@ -1,7 +1,11 @@
 # Em contrução a página de perfil! 🚧
 
-# Um conhecimento só é válido quando compartilhado! <div> <img src="https://i0.wp.com/gabrielluiz.com/wp-content/uploads/2020/10/perfil.png?width=40&height=40"> <\div>
- 
+# Um conhecimento só é válido quando compartilhado!
+
+<div> 
+ <img src="https://i0.wp.com/gabrielluiz.com/wp-content/uploads/2020/10/perfil.png?width=40&height=40">
+ <\div>
+  
  
 # Microsoft MVP
  
