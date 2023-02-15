@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Escreve artigos sobre: <img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a> <img src ="https://img.shields.io/badge/Windows Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
+## Escreve artigos sobre
 
-## Minhas Redes Sociais: 
+<img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a> <img src ="https://img.shields.io/badge/Windows Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
+
+## Minhas Redes Sociais
+
 <div> 
  <a href="https://youtube.com/gabrielluizbh" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/gabrielluizbh" target="_blank"><img src="https://img.shields.io/badge/-Twitter-219EEA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
