@@ -4,7 +4,7 @@
 ## Microsoft MVP
 
 <div>
-  <a href="https://mvp.microsoft.com/en-us/PublicProfile/500381" target="_blank"><img src="https://user-images.githubusercontent.com/31531703/218931931-8d1396e3-5900-4ce1-bf4b-3212c8af1b55.png" target="_blank"></a>
+  <a href="https://mvp.microsoft.com/en-us/PublicProfile/500381" target="_blank"><img src="https://gabrielluiz.com/wp-content/uploads/2024/07/5-mvp.png" target="_blank"></a>
  </div>
   
 ## Status do meu GitHub atualizado
@@ -48,5 +48,3 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/gabrielluizbh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://instagram.com/gabrielluizbh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
- 
-
